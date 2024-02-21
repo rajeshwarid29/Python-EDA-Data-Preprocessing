@@ -1,8 +1,8 @@
-Title: EDA & Data Preprocessing on Google App Store Rating Dataset using Python.
+**Title: EDA & Data Preprocessing on Google App Store Rating Dataset using Python.**
 
-Domain: Mobile device apps
+**Domain: Mobile device apps**
 
-Context:
+**Context:**
 The Play Store apps data has enormous potential to drive app-making businesses to success. However, many
 apps are being developed every single day and only a few of them become profitable. It is important for
 developers to be able to predict the success of their app and incorporate features which makes an app
@@ -10,14 +10,14 @@ successful. Before any such predictive-study can be done, it is necessary to do 
 the apps data available for google app store applications. From the collected apps data and user ratings from
 the app stores, let's try to extract insightful information.
 
-Objective:
+**Objective:**
 The Goal is to explore the data and pre-process it for future use in any predictive analytics study
 
-Data set Information:
+**Data set Information:**
 Web scraped data of 10k Play Store apps for analyzing the Android market. Each app (row) has values for
 category, rating, size, and more.
 
-Attribute Information:
+**Attribute Information:**
 Slno. Attribute Description
 1. App Application name
 2. Category Category the app belongs to.
