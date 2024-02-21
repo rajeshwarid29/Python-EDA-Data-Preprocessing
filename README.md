@@ -1,4 +1,5 @@
-Title: EDA & Data Preprocessing on Google App Store Rating Dataset using Python
+Title: EDA & Data Preprocessing on Google App Store Rating Dataset using Python.
+
 Domain: Mobile device apps
 
 Context:
